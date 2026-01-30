@@ -1,0 +1,2 @@
+- name: yq - portable yaml processor
+  uses: mikefarah/yq@v4.50.1
