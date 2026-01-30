@@ -1,0 +1,2 @@
+- name: Step CI Action
+  uses: stepci/stepci@2.8.2
